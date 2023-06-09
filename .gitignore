@@ -1,0 +1,6 @@
+img/
+runs/
+out/
+output_dir/
+dataset/
+model.pth
